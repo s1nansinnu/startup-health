@@ -1,7 +1,7 @@
 # startup-health
 the  task is i need to give score to startup based on their features in the csv 
 file for handling csv file and calculation i need pandas and numpy
-after that i need to analyse the dataset and normalise.there is two pat for normalisation the 
+after that i need to analyse the dataset and normalise.there is two part for normalisation the 
 some attributes are higher better and some are lower better, for that i separated them,only spending is high it is not better other are higher better
 for min max normalisation i used min max normalisation formula for all features except monthly burn rate for this used invert the normalisation after doing normalisation for amking equal
 now i need to give weights to all features basedon the relevance of them, here team experience 15 beacause experienced are better for them
